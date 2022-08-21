@@ -8,7 +8,7 @@ def add(x, y):
 def subtract(x, y):
     return x - y
 
-# This function multiplies two numbers
+# This function multiplies two numberі
 def multiply(x, y):
     return x * y
 
